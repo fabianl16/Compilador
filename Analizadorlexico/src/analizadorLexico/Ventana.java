@@ -94,7 +94,7 @@ public class Ventana extends JFrame {
 		            	
 		        }
 		        
-		       textLexica.setText(" ");
+		      
 			}
 		});
 		btnRun.setBounds(10, 11, 89, 23);
